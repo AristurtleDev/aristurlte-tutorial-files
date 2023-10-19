@@ -3,11 +3,14 @@ This repository contains the source code for the projects built as part of the t
 
 The source code for each tutorial is contained within a separate folder within this repository
 
-| Tutorial | Tutorial Link | Source Code Directory
-|---|---|
-| Collision Detection Tutorial | https://aristurtle.net/tutorials/collision-detection/01_introduction.html | [/collision-detection-tutorial](/collision-detection-tutorial/)
+| Tutorial | Tutorial Link | Source Code Directory |
+|---|---|---|
+| Collision Detection Tutorial | https://aristurtle.net/tutorials/collision-detection/01_introduction.html | [/collision-detection-tutorial](/collision-detection-tutorial/) |
 
 ## License
+All source code in this repository is licensed under **The Unlicense**.  The full license text can be found in the [LICENSE](/LICENSE) file as well in the block below:
+
+```
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
@@ -32,3 +35,4 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
+```
